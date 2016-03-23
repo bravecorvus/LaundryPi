@@ -1,7 +1,7 @@
 # The Laundry Rails Server
 
 ##Project Debrief
-![LaundryMachines](https://pixabay.com/static/uploads/photo/2015/04/05/16/26/laundromat-708176_960_720.jpg)
+![LaundryMachines](https://40.media.tumblr.com/fe539bba3c9b11516563865db8380675/tumblr_o4hikoOGfF1s5a4bko1_1280.jpg)
 
 This repository is part of a largescale project to bring the laundry machines of college campuses into the 21st Century.
 
@@ -18,14 +18,14 @@ As software engineers, our primary goal is to be able to go on a simple website 
 ##Project Strategy
 (DISCLAIMER: SUBJECT TO CHANGE)
 
-Our plan is to install a microcomputer in each laundry room on campus. We are still debating what kind of computer we will use, but we are planning to go with either the new [C.H.I.P](https://chip.hackster.io). computer, or a Raspberry Pi.
+Our plan is to install a microcomputer in each laundry room on campus. We are still debating what kind of computer we will use, but we are planning to go with either the new [C.H.I.P](http://getchip.com/). computer, or a Raspberry Pi.
 
 We will then attach a [primative vibration sensor](https://www.adafruit.com/products/1767) to each machine, and connect that with the microcomputer. The microcomputer will then send state changes (on or off) as well as the time this occured to a centrally located server.
 
 The central server will then receive the information, and then update the information on the databases to reflect the changes, and the web server will communicate to the end user through a web application.
 
 Here is a rough sketch of what might be implemented.
-[graph](https://41.media.tumblr.com/5cd79325fc59b28a264cb996b0e0934d/tumblr_o4hgz1YyMh1s5a4bko1_1280.jpg)
+![graph](https://41.media.tumblr.com/5cd79325fc59b28a264cb996b0e0934d/tumblr_o4hgz1YyMh1s5a4bko1_1280.jpg)
 
 ##Programming
 
