@@ -1,0 +1,19 @@
+# OS-specific files
+Thumbs.db
+.DS_Store
+.nfs*
+
+
+#SPECIFIC EXECUTABLES
+hugo
+andrew
+david
+magnus
+
+# Compiled and object files
+*.out
+*.o
+
+# Temporary files
+*~
+\#*\#

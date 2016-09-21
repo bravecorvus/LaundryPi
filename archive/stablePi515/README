@@ -1,0 +1,16 @@
+Team Clean
+Welcome to Team Clean's laundry software.
+Product description
+	Main purpose
+oing laundry at St. Olaf College easier for students who live on campus
+Letting students check the status of washers on their floor
+Offering a simple and accessible web page and web server that will display the information reliably
+Welcome to Team Clean's laundry software!
+
+To run this program, start the server with appropriate port command.
+example: /server [portno] 
+
+Then tell Hugo your computer name and what port you are using. 
+
+Wiki:
+http://www.cs.stolaf.edu/wiki/index.php/LaundryA
