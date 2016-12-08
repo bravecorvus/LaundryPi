@@ -43,12 +43,12 @@ We are planning to use primarily C++ for programming the state-handlers on the m
 
 
 ##Our Team
-Donart Tota
-Hugo Valent
-Bidit Sharma
-Magnus Cardell
-David Knott
-Jesus Caballero
+- Donart Tota
+- Hugo Valent
+- Bidit Sharma
+- Magnus Cardell
+- David Knott
+- Jesus Caballero
 
 ##Contact Us
 
