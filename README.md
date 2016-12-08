@@ -1,5 +1,5 @@
 # The Laundry Rails Server
-Project School Wiki at (http://www.cs.stolaf.edu/wiki/index.php/LaundryA)
+Project School Wiki at <http://www.cs.stolaf.edu/wiki/index.php/LaundryA>
 
 ##Project Debrief
 ![LaundryMachines](https://40.media.tumblr.com/fe539bba3c9b11516563865db8380675/tumblr_o4hikoOGfF1s5a4bko1_1280.jpg)
