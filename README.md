@@ -34,7 +34,7 @@ We are planning to use primarily C++ for programming the state-handlers on the m
 
 
 #Information About this Repository Specifically
-/stablePi and /stableServer is where the stable code is kept for the interface communication and the network communications portions of our project respectively. Since the programs are still in a developmental with many potential errors between the hardware communication and the TC/IP communication, we will store working code under testingPi and testingServer.
+`/stablePi` and `/stableServer` is where the stable code is kept for the interface communication and the network communications portions of our project respectively. Since the programs are still in a developmental with many potential errors between the hardware communication and the TCP/IP communication, we will store working code under `testingPi` and `testingServer`.
 
 
 ##More Information
