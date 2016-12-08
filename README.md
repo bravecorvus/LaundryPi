@@ -1,8 +1,8 @@
 # The Laundry Rails Server
-Project School Wiki at (http://www.cs.stolaf.edu/wiki/index.php/LaundryA)
+Project School Wiki at <http://www.cs.stolaf.edu/wiki/index.php/LaundryA>
 
 ##Project Debrief
-![LaundryMachines](https://40.media.tumblr.com/fe539bba3c9b11516563865db8380675/tumblr_o4hikoOGfF1s5a4bko1_1280.jpg)
+![LaundryMachines](images/LaundryMachines.jpg)
 
 This repository is part of a largescale project to bring the laundry machines of college campuses into the 21st Century.
 
@@ -22,11 +22,11 @@ Our plan is to install a microcomputer in each laundry room on campus. We are cu
 
 We attached a digital signal output, GPIO bus powered vibration sensor to the machine's GPIO pins, and  attached the sensors to the laundry machine. The microcomputer will record the vibrations, then send state changes (on or off) as well as the time this occured to a centrally located server.
 
-![RPiSetup](https://68.media.tumblr.com/caf48a03b93cd70018fd6f207b764768/tumblr_o6mrc7SG7j1s5a4bko1_1280.jpg)
+![RPiSetup](images/RPiSetup.jpg)
 
 The central server will then receive the information, and then update the information on the databases to reflect the changes, and the web server will communicate to the end user through a web application.
 
-![InAction](https://67.media.tumblr.com/f810fdbab55eb994c4d604c6cbfb66c6/tumblr_odvckf7eQz1s5a4bko1_1280.png)
+![InAction](images/InAction.png)
 
 ##Programming
 
@@ -34,21 +34,21 @@ We are planning to use primarily C++ for programming the state-handlers on the m
 
 
 #Information About this Repository Specifically
-/stablePi and /stableServer is where the stable code is kept for the interface communication and the network communications portions of our project respectively. Since the programs are still in a developmental with many potential errors between the hardware communication and the TC/IP communication, we will store working code under testingPi and testingServer.
+`/stablePi` and `/stableServer` is where the stable code is kept for the interface communication and the network communications portions of our project respectively. Since the programs are still in a developmental with many potential errors between the hardware communication and the TCP/IP communication, we will store working code under `testingPi` and `testingServer`.
 
 
 ##More Information
-[Manual](https://goo.gl/mNkT0B)
+[User Manual](./UserManual.md)
 
 
 
 ##Our Team
-Donart Tota
-Hugo Valent
-Bidit Sharma
-Magnus Cardell
-David Knott
-Jesus Caballero
+- Donart Tota
+- Hugo Valent
+- Bidit Sharma
+- Magnus Cardell
+- David Knott
+- Jesus Caballero
 
 ##Contact Us
 
