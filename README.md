@@ -38,7 +38,7 @@ We are planning to use primarily C++ for programming the state-handlers on the m
 
 
 ##More Information
-[Manual](https://goo.gl/mNkT0B)
+[Manual](https://docs.google.com/document/d/1BHVk0Hevf0V_oB13gpIEyMFxyB8OXr5Pj2qJtPnLsw8/view)
 
 
 
